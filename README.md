@@ -1,7 +1,7 @@
 # deteccao_de_cancer
 Algoritmo de Machine Learning (aprendizado de máquina) para a detecção de câncer de mama (se benigno ou maligno)
 
-Utilizando dados de exames de pacientes com câncers para detectar o tipo cancerígeno das células. Os dados utilizados foram compilados pelos pesquisadores da Universidade de Wisconsin (EUA):
+Utilizando dados de exames de pacientes com câncers para detectar o tipo cancerígeno das células. Os dados utilizados foram compilados pelos pesquisadores da Universidade de Wisconsin (EUA):\
 Dr. William H. Wolberg, General Surgery Dept.
 University of Wisconsin, Clinical Sciences Center
 Madison, WI 53792
