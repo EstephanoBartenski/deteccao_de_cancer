@@ -20,3 +20,4 @@ Referências:
      to diagnose breast cancer from fine-needle aspirates. Cancer Letters 77 (1994) 
      163-171.
 
+O estudo completo está no notebook acima e seu resumo no meu blog: https://medium.com/@estephanorodr
