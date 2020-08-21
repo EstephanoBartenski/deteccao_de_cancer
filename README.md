@@ -1,19 +1,10 @@
 # deteccao_de_cancer
 Algoritmo de Machine Learning (aprendizado de máquina) para a detecção de câncer de mama (se benigno ou maligno)
 
-Utilizando dados de exames de pacientes com câncers para detectar o tipo cancerígeno das células. Os dados utilizados foram compilados pelos pesquisadores da Universidade de Wisconsin (EUA):\
-Dr. William H. Wolberg, General Surgery Dept.
-University of Wisconsin, Clinical Sciences Center
-Madison, WI 53792
-wolberg '@' eagle.surgery.wisc.edu
-
-W. Nick Street, Computer Sciences Dept.
-University of Wisconsin, 1210 West Dayton St., Madison, WI 53706
-street '@' cs.wisc.edu 608-262-6619
-
-Olvi L. Mangasarian, Computer Sciences Dept.
-University of Wisconsin, 1210 West Dayton St., Madison, WI 53706
-olvi '@' cs.wisc.edu
+Utilizando dados de exames de pacientes com câncers para detectar o tipo cancerígeno das células. Os dados utilizados foram compilados pelos pesquisadores da Universidade de Wisconsin (EUA):
+- Dr. William H. Wolberg, General Surgery Dept. University of Wisconsin, Clinical Sciences Center; Madison, WI 53792; wolberg '@' eagle.surgery.wisc.edu
+- W. Nick Street, Computer Sciences Dept.; University of Wisconsin, 1210 West Dayton St., Madison, WI 53706; street '@' cs.wisc.edu 608-262-6619
+- Olvi L. Mangasarian, Computer Sciences Dept.; University of Wisconsin, 1210 West Dayton St., Madison, WI 53706; olvi '@' cs.wisc.edu
 
 Referências:
    - W.N. Street, W.H. Wolberg and O.L. Mangasarian. Nuclear feature extraction 
